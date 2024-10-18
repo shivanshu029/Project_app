@@ -1,0 +1,30 @@
+/* Register.css */
+
+/* Custom styles for the registration page */
+.h-custom {
+    height: 100vh !important; /* Make the section full height */
+}
+
+.card {
+    border-radius: 0.3rem; /* Match the card radius */
+}
+
+/* Styles for input fields and selects */
+.form-outline {
+    margin-bottom: 1.5rem; /* Space between input fields */
+}
+
+.form-control {
+    border-radius: 0.3rem; /* Rounded corners for inputs */
+}
+
+/* Button styles */
+.btn-success {
+    background-color: #28a745; /* Green color for the submit button */
+    border: none;
+}
+
+/* Placeholder color */
+.form-control::placeholder {
+    color: #999; /* Grey color for placeholders */
+}
